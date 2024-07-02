@@ -455,7 +455,6 @@ The integration of GitHub and Visual Studio enhances collaborative development t
 
 
 
-
 References and sources: SOFTWARE PROJECT MANAGEMENT�->Key Concepts and Practices< By Chakin (PLP May 2024 class). Pro Git- Second Editiong by Scott Chacon and Ben Straub: Version 2.1.429, 2024-05-15. AI models By Chakin – PLP Academy. https://chatgpt.com ONLINE Source. ChatGPT.
 
 
